@@ -18,6 +18,19 @@ and the pictures on the cards. When you are done, you can use the class name
 of your GameConfig as a program argument for Solver (also see .launch-Files in
 this folder).
 
+
+This fork of the [keilhauer/Legespiel-Solver](https://github.com/keilhauer/Legespiel-Solver) adds a additional config for:
+
+
+### 💡 **Professor McBrainy`s Zany COSMOS optical illusion puzzle**
+
+![puzzle-box](https://github.com/TobseF/Legespiel-Solver/wiki/images/puzzle-box.jpg?raw=true)
+
+![puzzle-box](https://github.com/TobseF/Legespiel-Solver/wiki/images/puzzle-tiles.jpg?raw=true)
+
+
+### 📗 [All Solutions PDF](https://github.com/TobseF/Legespiel-Solver/wiki/files/all_original_solutions_illusion_puzzle.pdf?raw=true)
+
 ## Licence
 The software is published under the terms of the following license:
 
